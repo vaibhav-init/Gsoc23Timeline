@@ -8,7 +8,7 @@ Step 1: Make sure you have Flutter installed in your system(if not refer https:/
 
 Step 2: 
 ```
-git clone https://github.com/vaibhav-init/GSOC-2023-Timeline-App.git
+git clone https://github.com/vaibhav-init/Gsoc23Timeline.git
 ```
 Step 3 : 
 
